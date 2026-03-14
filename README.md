@@ -1,5 +1,7 @@
 # 🎮 PongPy
 
+![Demonstração do PongPy](./pong_gif.gif)
+
 Um jogo de Pong clássico desenvolvido em Python com a biblioteca **Pygame**. O projeto apresenta um sistema de Inteligência Artificial para as barras e um "Modo de Demonstração" automático.
 
 ## 🚀 Funcionalidades
