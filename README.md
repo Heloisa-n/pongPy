@@ -33,4 +33,4 @@ Se você deseja apenas jogar sem configurar o ambiente Python, acesse a aba [Rel
 > **⚠️AVISO IMPORTANTE:** O Windows pode emitir um alerta de segurança por ser um executável não assinado. O código-fonte está aberto para conferência e é totalmente seguro.
 
 ---
-Desenvolvido por [Heloisa-n] como projeto de estudo em Python e Pygame.
+Desenvolvido por [Heloisa-n](https://github.com/Heloisa-n) como projeto de estudo em Python e Pygame.
