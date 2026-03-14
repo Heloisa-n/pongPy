@@ -29,5 +29,8 @@ Um jogo de Pong clássico desenvolvido em Python com a biblioteca **Pygame**. O 
 ## 📦 Download da Versão Executável (.exe)
 Se você deseja apenas jogar sem configurar o ambiente Python, acesse a aba [Releases](https://github.com/Heloisa-n/pongPy/releases/tag/v1.0) à direita e baixe o arquivo `PongPy.exe`.
 
+> ⚠️[!CAUTION]
+> ⚠️**AVISO IMPORTANTE:** O Windows pode acusar vírus por ser um executável não assinado. O código é 100% seguro.⚠️
+
 ---
 Desenvolvido por [Heloisa-n] como projeto de estudo em Python e Pygame.
