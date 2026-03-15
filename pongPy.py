@@ -70,14 +70,14 @@ while config.rodando:
                 # COLISÃO COM A BORDA HORIZONTAL(PERDE):
         if x_bola <= 20 or x_bola >= 400:
 
-            bola_movendo = False
+            maquinaXMaquina = True
 
             classes.barra_esquerda.rect.topleft = (10, 100)
             classes.barra_direita.rect.topleft = (config.tela_largura - 30, 100)
     
     # BARRA DO JOGADOR:    
 
-    #BARRA DO COMPUADOR:
+    #BARRA DO COMPUTADOR:
     if maquinaXMaquina:
         bola_movendo = True
         #texto de orientação:

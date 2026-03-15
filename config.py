@@ -10,7 +10,6 @@ def caminhodoIcone(caminho):
         base_path = os.path.abspath(".")
     return os.path.join(base_path, caminho)
 
-# AGORA SIM: Carrega o ícone de forma "blindada"
 icone_janela = pygame.image.load(caminhodoIcone("bola.ico"))
 
 pygame.init()
